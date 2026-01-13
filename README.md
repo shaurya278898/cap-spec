@@ -15,6 +15,14 @@
 
 ---
 
+## Reference Implementations
+
+- **CAP Safe Refusal Provenance (SRP) – Reference Implementation**  
+  A reference implementation and evidence repository demonstrating Safe Refusal Provenance (SRP), including non-generation proofs and cryptographic audit artifacts based on this specification.  
+  👉 https://github.com/veritaschain/cap-safe-refusal-provenance
+
+---
+
 ## What is CAP?
 
 **CAP (Content / Creative AI Profile)** is a domain-specific profile within the [VAP (Verifiable AI Provenance Framework)](https://github.com/veritaschain/vap-framework), establishing cryptographically verifiable audit trails for AI workflows in content and creative industries.
